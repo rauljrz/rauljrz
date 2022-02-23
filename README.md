@@ -6,7 +6,7 @@ Full Stack Engineer
 [![Linkedin: rauljrz](https://img.shields.io/badge/-rauljrz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rauljrz/)](https://www.linkedin.com/in/rauljrz/)
 ![GitHub followers](https://img.shields.io/github/followers/rauljrz?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=http://rauljrz.me/)](http://rauljrz.me/)
-![](https://visitor-badge.glitch.me/badge?page_id=rauljrz.prueba01)
+![](https://visitor-badge.glitch.me/badge?page_id=rauljrz.rauljrz)
 <p align="left">
 </p>
 
