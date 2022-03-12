@@ -173,24 +173,24 @@ const rauljrz = {
     <table>
         <tr>
             <td align="center" width="96">
-                <a href="https://www.credly.com/users/rauljrz">
+                <a href="https://www.credly.com/users/rauljrz" target="_blank" rel="noopener noreferrer">
                     <img src="https://cdn.credly.com/assets/structure/logo-78b59f8114817c758ca965ed8f1a58a76a39b6fd70d031f771a9bbc581fcde65.svg" style="max-height: 72px;">
                 </a>
             </td>
             <td align="left" width="600">
-                <a href="https://www.credly.com/users/rauljrz">
+                <a href="https://www.credly.com/users/rauljrz" target="_blank" rel="noopener noreferrer">
                     <p>Badges in Credly</p>
                 </a>
             </td>
         </tr>
         <tr>
             <td align="center" width="96">
-                <a href="https://www.coursera.org/account/accomplishments/specialization/MB9GEZZYLN2N">
+                <a href="https://www.coursera.org/account/accomplishments/specialization/MB9GEZZYLN2N" target="_blank" rel="noopener noreferrer">
                     <img src="https://d2j5ihb19pt1hq.cloudfront.net/certificates/cert-specialization.png" style="max-height: 72px;">
                 </a>
             </td>
             <td align="left" width="600">
-                <a href="https://www.coursera.org/account/accomplishments/specialization/MB9GEZZYLN2N">
+                <a href="https://www.coursera.org/account/accomplishments/specialization/MB9GEZZYLN2N" target="_blank" rel="noopener noreferrer">
                     <p>BI Foundations with SQL, ETL and Data Warehousing</p>
                 </a>
                 <p>IBM</p>
@@ -198,12 +198,12 @@ const rauljrz = {
         </tr>
         <tr>
             <td align="center" width="96">
-                <a href="https://www.coursera.org/account/accomplishments/professional-cert/YZFFZH4QDA36">
+                <a href="https://www.coursera.org/account/accomplishments/professional-cert/YZFFZH4QDA36" target="_blank" rel="noopener noreferrer">
                     <img src="https://d2j5ihb19pt1hq.cloudfront.net/certificates/cert-specialization.png" style="max-height: 72px;">
                 </a>
             </td>
             <td align="left" width="600">
-                <a href="https://www.coursera.org/account/accomplishments/professional-cert/YZFFZH4QDA36">
+                <a href="https://www.coursera.org/account/accomplishments/professional-cert/YZFFZH4QDA36" target="_blank" rel="noopener noreferrer">
                     <p>IBM Data Warehouse Engineer</p>
                 </a>
                 <p>IBM</p>
@@ -211,12 +211,12 @@ const rauljrz = {
         </tr>
         <tr>
             <td align="center" width="96">
-                <a href="https://www.coursera.org/account/accomplishments/specialization/GL2VXW7752U3">
+                <a href="https://www.coursera.org/account/accomplishments/specialization/GL2VXW7752U3" target="_blank" rel="noopener noreferrer">
                     <img src="https://d2j5ihb19pt1hq.cloudfront.net/certificates/cert-specialization.png" style="max-height: 72px;">
                 </a>
             </td>
             <td align="left" width="600">
-                <a href="https://www.coursera.org/account/accomplishments/specialization/GL2VXW7752U3">
+                <a href="https://www.coursera.org/account/accomplishments/specialization/GL2VXW7752U3" target="_blank" rel="noopener noreferrer">
                     <p>NoSQL, Big Data, and Spark Foundations</p>
                 </a>
                 <p>IBM</p>
@@ -224,12 +224,12 @@ const rauljrz = {
         </tr>
         <tr>
             <td align="center" width="96">
-                <a href="https://www.coursera.org/account/accomplishments/specialization/NMM4KBVEBE8F">
+                <a href="https://www.coursera.org/account/accomplishments/specialization/NMM4KBVEBE8F" target="_blank" rel="noopener noreferrer">
                     <img src="https://d2j5ihb19pt1hq.cloudfront.net/certificates/cert-specialization.png" style="max-height: 72px;">
                 </a>
             </td>
             <td align="left" width="600">
-                <a href="https://www.coursera.org/account/accomplishments/specialization/NMM4KBVEBE8F">
+                <a href="https://www.coursera.org/account/accomplishments/specialization/NMM4KBVEBE8F" target="_blank" rel="noopener noreferrer">
                     <p>Cloud Application Development Foundations</p>
                 </a>
                 <p>IBM</p>
@@ -237,12 +237,12 @@ const rauljrz = {
         </tr>
         <tr>
             <td align="center" width="96">
-                <a href="https://www.coursera.org/account/accomplishments/specialization/REJK5D8MTGCE">
+                <a href="https://www.coursera.org/account/accomplishments/specialization/REJK5D8MTGCE" target="_blank" rel="noopener noreferrer">
                     <img src="https://d2j5ihb19pt1hq.cloudfront.net/certificates/cert-specialization.png" style="max-height: 72px;">
                 </a>
             </td>
             <td align="left" width="600">
-                <a href="https://www.coursera.org/account/accomplishments/specialization/REJK5D8MTGCE">
+                <a href="https://www.coursera.org/account/accomplishments/specialization/REJK5D8MTGCE" target="_blank" rel="noopener noreferrer">
                     <p>Data Engineering Foundations</p>
                 </a>
                 <p>IBM</p>
