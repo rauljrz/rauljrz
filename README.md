@@ -25,7 +25,7 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 
 ```javascript
 const rauljrz = {
-    code: ["Pick/U2", "Javascript", "Python", "PHP"],
+    code: ["Javascript", "Python", "PHP"],
     askMeAbout: ["web dev", "Data Warehouse", "Data Engineering IBM", "DevOps"],
     technologies: {
         backEnd: {
